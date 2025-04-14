@@ -1,0 +1,9 @@
+Clock Frequency: 100 MHz - Period = 10 ns
+
+Count Value = 2s / 10 ns = 200,000,000
+
+Split into 16-bit high and low values:
+
+Low 16 bits: 0xC200 (49664)
+
+High 16 bits: 0x0BEB (3051)
